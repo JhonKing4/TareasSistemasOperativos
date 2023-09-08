@@ -1,2 +1,2 @@
-# Tareas Sistemas Operativos
+# Sistemas Operativos
 # Ciau Cetz Jhoandi Abraham
