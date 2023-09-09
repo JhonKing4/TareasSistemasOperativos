@@ -9,8 +9,8 @@ _____
 #####  Tarea 997  💻
 Hacer el https://vim-adventures.com/ los niveles gratuitos, sacar un screenshot del ultimo nivel
 
-| Nivel 3  | Final  | 
+| Screenshot 1  | Screenshot 2  | 
 |---|---|
-| <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/VIM.png" target="_blank"> <img src="/VIM.png" width="250" height="200"/></a> |  <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/VIMAdventure.png" target="_blank"> <img src="/VIMAdventure.png" width="250" height="200"/></a> |  
+| <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/VIM.png" target="_blank"> <img src="/VIM.png" width="400" height="300"/></a> |  <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/VIMAdventure.png" target="_blank"> <img src="/VIMAdventure.png" width="450" height="300"/></a> |  
 
 
