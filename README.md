@@ -13,4 +13,10 @@ Hacer el https://vim-adventures.com/ los niveles gratuitos, sacar un screenshot 
 |---|---|
 | <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/VIM.png" target="_blank"> <img src="/VIM.png" width="450" height="350"/></a> |  <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/VIMAdventure.png" target="_blank"> <img src="/VIMAdventure.png" width="450" height="350"/></a> |  
 
-
+_____
+#####  Tarea 996  💻
+Hacer un menú en bash que permita elegir la ejecución entre el script para crear un árbol de directorios, el script de hola mundo y el script de saludo usando variables y por último la opción de salir.
+<a href="https://asciinema.org/a/608060" target="_blank"><img src="https://asciinema.org/a/608060.svg" /></a>
+_____
+#####  Tarea 995  💻
+Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido. Entregar 19/09/23 antes de clase
