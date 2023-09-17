@@ -20,4 +20,4 @@ Hacer un menú en bash que permita elegir la ejecución entre el script para cre
 _____
 #####  Tarea 995  💻
 Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido. Entregar 19/09/23 antes de clase
-
+![GIF de Comando](https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/ComandoBasico.gif)
