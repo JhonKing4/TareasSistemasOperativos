@@ -20,4 +20,4 @@ Hacer un menú en bash que permita elegir la ejecución entre el script para cre
 _____
 #####  Tarea 995  💻
 Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido. Entregar 19/09/23 antes de clase
-<iframe src="https://giphy.com/embed/uHVqgxFFN8eXB3XFpY" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uHVqgxFFN8eXB3XFpY">via GIPHY</a></p>
+<a <div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/uHVqgxFFN8eXB3XFpY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/uHVqgxFFN8eXB3XFpY">via GIPHY</a></p>></a>
