@@ -16,7 +16,7 @@ Hacer el https://vim-adventures.com/ los niveles gratuitos, sacar un screenshot 
 _____
 #####  Tarea 996  💻
 Hacer un menú en bash que permita elegir la ejecución entre el script para crear un árbol de directorios, el script de hola mundo y el script de saludo usando variables y por último la opción de salir.
-<a href="https://asciinema.org/a/608060" target="_blank"><img src="https://asciinema.org/a/608060.svg" /></a>
+[![asciicast](https://asciinema.org/a/608837.svg)](https://asciinema.org/a/608837)
 _____
 #####  Tarea 995  💻
 Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido.
