@@ -28,3 +28,4 @@ _____
 - [x] Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido.
 ![GIF de Comandos](https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/Comandos.gif)
 
+[](./actividad1/seis/)
