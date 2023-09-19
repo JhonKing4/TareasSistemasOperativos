@@ -26,8 +26,5 @@ _____
 _____
 #####  Tarea 995  💻
 - [x] Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido.
-| Gif  | Gif  | 
-|---|---|
-|<a> ![GIF de ComandoBasico](https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/ComandoBasico.gif) </a>
-|<a>![GIF de Comandos](https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/Comandos.gif) </a>|  
+![GIF de Comandos](https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/Comandos.gif)
 
