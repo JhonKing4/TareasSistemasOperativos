@@ -7,7 +7,7 @@ _____
 <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/SS%20Debian.png" target="_blank"> <img src="/SS Debian.png"/></a>  
 _____
 #####  Tarea 997  💻
-Hacer el https://vim-adventures.com/ los niveles gratuitos, sacar un screenshot del ultimo nivel
+- [x] Hacer el https://vim-adventures.com/ los niveles gratuitos, sacar un screenshot del ultimo nivel
 
 | Screenshot 1  | Screenshot 2  | 
 |---|---|
@@ -15,10 +15,14 @@ Hacer el https://vim-adventures.com/ los niveles gratuitos, sacar un screenshot 
 
 _____
 #####  Tarea 996  💻
-Hacer un menú en bash que permita elegir la ejecución entre el script para crear un árbol de directorios, el script de hola mundo y el script de saludo usando variables y por último la opción de salir.
+- [x] Hacer un menú en bash que permita elegir la ejecución entre el script para crear un árbol de directorios, el script de hola mundo y el script de saludo usando variables y por último la opción de salir.
 [![asciicast](https://asciinema.org/a/608837.svg)](https://asciinema.org/a/608837)
+
+> [!NOTE]
+> El codigo del Menu en un archivo TXT
+[![Menu.txt](https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/Menu.txt)
 _____
 #####  Tarea 995  💻
-Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido.
+- [x] Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido.
 
 ![GIF de Comando](https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/ComandoBasico.gif)
