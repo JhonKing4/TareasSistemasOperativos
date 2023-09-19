@@ -20,7 +20,7 @@ _____
 
 > [!NOTE]
 > El codigo del
-> <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/menu.sh" target="_blank"> Menu</a> en un archivo TXT
+> <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/menu.sh" target="_blank"> Menu</a>
 
 
 _____
