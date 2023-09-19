@@ -2,7 +2,7 @@
 # Ciau Cetz Jhoandi Abraham 👋
 _____
 #####  Tarea 998 💻
-Instalar Virtualbox y alguna distribucion de Linux (Debian), entregar para el 12/09/23, tomar screenshot del sistema ya instalado y subir la captura a su repositorio de tareas como evidencia
+- [x] Instalar Virtualbox y alguna distribucion de Linux (Debian), entregar para el 12/09/23, tomar screenshot del sistema ya instalado y subir la captura a su repositorio de tareas como evidencia
 
 <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/SS%20Debian.png" target="_blank"> <img src="/SS Debian.png"/></a>  
 _____
