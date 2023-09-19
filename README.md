@@ -19,8 +19,10 @@ _____
 [![asciicast](https://asciinema.org/a/608837.svg)](https://asciinema.org/a/608837)
 
 > [!NOTE]
-> El codigo del Menu en un archivo TXT
-[![Menu.txt](https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/Menu.txt)
+> El codigo del
+> <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/Menu.txt" target="_blank"> Menu</a> en un archivo TXT
+
+
 _____
 #####  Tarea 995  💻
 - [x] Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido.
