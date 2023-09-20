@@ -31,4 +31,4 @@ _____
 _____
 #####  Tarea 994  💻
 - [x] Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf
-- [ ] [Archivo menu](./actividad1/seis/menu.sh)
+  - [Archivo menu](./actividad1/seis/menu.sh)
