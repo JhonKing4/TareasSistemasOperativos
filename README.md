@@ -28,4 +28,7 @@ _____
 - [x] Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido.
 ![GIF de Comandos](https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/Comandos.gif)
 
-[Archivo menu](./actividad1/seis/)
+_____
+#####  Tarea 994  💻
+- [x] Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf
+[Archivo menu](./actividad1/seis/menu.sh)
