@@ -32,3 +32,9 @@ _____
 #####  Tarea 994  💻
 - [x] Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf
   - [Archivo menu](./actividad1/seis/menu.sh)
+_____
+#####  Tarea 993  💻
+- [ ] Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt 
+_____
+#####  Tarea 992  💻
+- [ ] Participar en el hacktoberfest 2023
