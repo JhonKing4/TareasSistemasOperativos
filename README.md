@@ -38,10 +38,10 @@ _____
 _____
 #####  Tarea 992  💻
 - [ ] Participar en el hacktoberfest 2023
+      [![An image of @jhonking4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhonking4)](https://holopin.io/@jhonking4)
 _____
 #####  Tarea 991 💻
 - [ ] Realizar los rooms de Linux Fundamentals de tryhackme https://tryhackme.com/room/linuxfundamentalspart1  los 3 rooms, solo los que sean gratis.
 _____
 #####  Tarea 990  💻
 - [ ] Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python, pueden usar cualquier lenguaje https://youtu.be/jAvAacuWlwo?si=hIdlSOjfBCbWtFzH
-[![An image of @jhonking4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhonking4)](https://holopin.io/@jhonking4)
