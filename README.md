@@ -34,7 +34,10 @@ _____
   - [Archivo menu](./actividad1/seis/menu.sh)
 _____
 #####  Tarea 993  💻
-- [ ] Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt 
+- [x] Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt
+> [!NOTE]
+> Comandos Utilizados de 
+> <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/comandosbandit1-34.txt" target="_blank"> </a>
 _____
 #####  Tarea 992  💻
 - [ ] Participar en el hacktoberfest 2023
