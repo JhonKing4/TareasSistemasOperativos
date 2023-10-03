@@ -37,7 +37,7 @@ _____
 - [x] Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt
 > [!NOTE]
 > Comandos Utilizados de 
-> <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/comandosbandit1-34.txt" target="_blank"> </a>
+> <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/comandosbandit1-34.txt" target="_blank"> bandit 1-34 </a>
 _____
 #####  Tarea 992  💻
 - [ ] Participar en el hacktoberfest 2023
