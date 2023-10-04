@@ -46,7 +46,7 @@ _____
 _____
 #####  Tarea 991 💻
 - [ ] Realizar los rooms de Linux Fundamentals de tryhackme https://tryhackme.com/room/linuxfundamentalspart1  los 3 rooms, solo los que sean gratis.
-  https://tryhackme.com/jhoandiciaucetz/badges/terminaled
+   -[Badges](https://tryhackme.com/jhoandiciaucetz/badges/terminaled).
 _____
 #####  Tarea 990  💻
 - [ ] Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python, pueden usar cualquier lenguaje https://youtu.be/jAvAacuWlwo?si=hIdlSOjfBCbWtFzH
