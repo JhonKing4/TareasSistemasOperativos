@@ -51,4 +51,5 @@ _____
 - [ ] Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python, pueden usar cualquier lenguaje https://youtu.be/jAvAacuWlwo?si=hIdlSOjfBCbWtFzH
 _____
 #####  Tarea 989  💻
-- [ ] Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting 
+- [ ] Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
+https://github.com/JhonKing4/TareasSistemasOperativos/blob/71de25ca2f1980f35fb114223f30ce96e1665484/comandosbandit1-34.txt#L1
