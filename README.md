@@ -40,7 +40,7 @@ _____
 > <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/comandosbandit1-34.txt" target="_blank"> bandit 1-34 </a>
 _____
 #####  Tarea 992  💻
-- [ ] Participar en el hacktoberfest 2023
+- [x] Participar en el hacktoberfest 2023
       [![An image of @jhonking4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhonking4)](https://holopin.io/@jhonking4)
 _____
 #####  Tarea 991 💻
