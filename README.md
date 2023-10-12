@@ -45,11 +45,17 @@ _____
       [![An image of @jhonking4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhonking4)](https://holopin.io/@jhonking4)
 _____
 #####  Tarea 991 💻
-- [ ] Realizar los rooms de Linux Fundamentals de tryhackme https://tryhackme.com/room/linuxfundamentalspart1  los 3 rooms, solo los que sean gratis.
+- [x] Realizar los rooms de Linux Fundamentals de tryhackme https://tryhackme.com/room/linuxfundamentalspart1  los 3 rooms, solo los que sean gratis.
    -[Badges](https://tryhackme.com/jhoandiciaucetz/badges/terminaled).
 _____
 #####  Tarea 990  💻
 - [ ] Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python, pueden usar cualquier lenguaje https://youtu.be/jAvAacuWlwo?si=hIdlSOjfBCbWtFzH
 _____
 #####  Tarea 989  💻
-- [ ] Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
+- [x] Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
+_____
+#####  Tarea 988  💻
+- [ ] Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia
+_____
+#####  Tarea 987  💻
+- [ ] Realizar el siguiente laboratorio durante la clase de hoy , en un PDF documentar con screenshots los resultados de sus comandos y las respuestas a sus preguntas
