@@ -11,7 +11,7 @@ _____
 
 | Screenshot 1  | Screenshot 2  | 
 |---|---|
-| <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/VIM.png" target="_blank"> <img src="/VIM.png" width="450" height="350"/></a> |  <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/VIMAdventure.png" target="_blank"> <img src="/VIMAdventure.png" width="450" height="350"/></a> |  
+| <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/VIM.png" target="_blank"> <img src="/VIM.png" width="auto" height="auto"/></a> |  <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/VIMAdventure.png" target="_blank"> <img src="/VIMAdventure.png" width="auto" height="auto"/></a> |  
 
 _____
 #####  Tarea 996  💻
