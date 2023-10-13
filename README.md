@@ -49,7 +49,7 @@ _____
 
 | Linux  | Rooms  | 
 |---|---|
-| <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/tryHackMeLinux.png" target="_blank"> <img src="/tryHackMeLinux.png" width="auto" height="auto"/></a> |  <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/tryHackMeRooms.png" target="_blank"> <img src="/tryHackMeRooms.png" width="400" height="350"/></a> |  
+| <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/tryHackMeLinux.png" target="_blank"> <img src="/tryHackMeLinux.png" width="auto" height="auto"/></a> |  <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/tryHackMeRooms.png" target="_blank"> <img src="/tryHackMeRooms.png" width="auto" height="auto"/></a> |  
 
 
 _____
