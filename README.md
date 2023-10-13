@@ -47,12 +47,17 @@ _____
 #####  Tarea 991 💻
 - [x] Realizar los rooms de Linux Fundamentals de tryhackme https://tryhackme.com/room/linuxfundamentalspart1  los 3 rooms, solo los que sean gratis.
    -[Badges](https://tryhackme.com/jhoandiciaucetz/badges/terminaled).
+| Linux  | Rooms  | 
+|---|---|
+| <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/tryHackMeLinux.png" target="_blank"> <img src="/tryHackMeLinux.png" width="450" height="350"/></a> |  <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/tryHackMeRooms.png" target="_blank"> <img src="/tryHackMeRooms.png" width="450" height="350"/></a> |  
 _____
 #####  Tarea 990  💻
-- [ ] Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python, pueden usar cualquier lenguaje https://youtu.be/jAvAacuWlwo?si=hIdlSOjfBCbWtFzH
+- [x] Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python, pueden usar cualquier lenguaje https://youtu.be/jAvAacuWlwo?si=hIdlSOjfBCbWtFzH
+      https://github.com/JhonKing4/TareasSistemasOperativos/blob/af4d872f607b515c348fd697e800510292135a80/jail.py#L3-L14
 _____
 #####  Tarea 989  💻
 - [x] Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
+<a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/tryHackMeBash.png" target="_blank"> <img src="/tryHackMeBash.png"/></a>  
 _____
 #####  Tarea 988  💻
 - [x] Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia
