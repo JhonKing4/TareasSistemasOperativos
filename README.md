@@ -55,7 +55,13 @@ _____
 - [x] Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
 _____
 #####  Tarea 988  💻
-- [ ] Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia
+- [x] Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia
+> [!IMPORTANT]
+> Archivo
+> <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/tarea988.pdf" target="_blank"> PDF </a>
 _____
 #####  Tarea 987  💻
-- [ ] Realizar el siguiente laboratorio durante la clase de hoy , en un PDF documentar con screenshots los resultados de sus comandos y las respuestas a sus preguntas
+- [x] Realizar el siguiente laboratorio durante la clase de hoy , en un PDF documentar con screenshots los resultados de sus comandos y las respuestas a sus preguntas
+> [!IMPORTANT]
+> Archivo
+> <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/tarea987.pdf" target="_blank"> PDF </a>
