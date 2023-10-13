@@ -49,7 +49,9 @@ _____
 
 | Linux  | Rooms  | 
 |---|---|
-| <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/tryHackMeLinux.png" target="_blank"> <img src="/tryHackMeLinux.png" width="450" height="350"/></a> |  <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/tryHackMeRooms.png" target="_blank"> <img src="/tryHackMeRooms.png" width="450" height="350"/></a> |  
+| <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/tryHackMeLinux.png" target="_blank"> <img src="/tryHackMeLinux.png" width="auto" height="auto"/></a> |  <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/tryHackMeRooms.png" target="_blank"> <img src="/tryHackMeRooms.png" width="400" height="350"/></a> |  
+
+
 _____
 #####  Tarea 990  💻
 - [x] Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python, pueden usar cualquier lenguaje https://youtu.be/jAvAacuWlwo?si=hIdlSOjfBCbWtFzH
