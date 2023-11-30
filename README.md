@@ -89,4 +89,4 @@ _____
   - Courier
   - Amavis
   - Rouncube
-<a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/Servidores.png" target="_blank"> <img src="/Servidores.png" width="auto" height="auto"/></a>
+<a href="//" target="_blank"> <img src="/Servidores.png" width="auto" height="auto"/></a>
