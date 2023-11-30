@@ -74,7 +74,7 @@ _____
 > <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/tarea987.pdf" target="_blank"> PDF </a>
 _____
 #####  Tarea 986  💻
-- [x] Servidores
+- [x] Realizar las instalaciones de los servicios de red en el servidor Linux
   - SSH->Open SSh
   - Web->Apache
   - DB->MariaDB
@@ -91,3 +91,8 @@ _____
   - Rouncube
     
 <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/Servidores1.png" target="_blank"> <img src="/Servidores1.png" width="auto" height="auto"/></a>
+_____
+#####  Tarea 985  💻
+- [ ] Aplicar el cis benchmark a su sistema operativo Linux
+
+
