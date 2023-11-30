@@ -80,4 +80,13 @@ _____
   - DB->MariaDB
   - ProxyWeb->Squid
   - Dns->Bind9
+  - Ftp ->PureFTP
+  - Squidguardian
+  - HAProxy
+  - PHP
+  - OpenVPN
+  - Postfix
+  - Courier
+  - Amavis
+  - Rouncube
 <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/Servidores.png" target="_blank"> <img src="/Servidores.png" width="auto" height="auto"/></a>
